@@ -167,7 +167,7 @@ The project focuses on Java fundamentals, Object-Oriented Programming, collectio
 ## 👨‍💻 Author
 
 ### Ritik Raj
-🎓 CSE Student  
+🎓 (B.TECH)-COMPUTER SCIENCE & ENGINEERING 
 
 ---
 
